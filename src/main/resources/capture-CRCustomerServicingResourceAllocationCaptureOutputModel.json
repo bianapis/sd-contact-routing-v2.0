@@ -1,0 +1,12 @@
+{
+  "customerServicingResourceAllocationCaptureActionTaskReference" : "CSRACATR717979",
+  "customerServicingResourceAllocationCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "customerServicingResourceAllocationInstanceRecord" : {
+    "servicingResourceRecord" : {
+      "servicingResourceAvailabilitySchedule" : "servicingResourceAvailabilitySchedule",
+      "servicingResourceStatus" : "servicingResourceStatus"
+    }
+  },
+  "captureRecordReference" : "CRR748374"
+}

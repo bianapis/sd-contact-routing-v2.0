@@ -1,0 +1,26 @@
+{
+  "customerServicingResourceAllocationInstanceAnalysis" : {
+    "customerServicingResourceAllocationInstanceAnalysisData" : "customerServicingResourceAllocationInstanceAnalysisData",
+    "customerServicingResourceAllocationInstanceAnalysisReport" : {},
+    "customerServicingResourceAllocationInstanceAnalysisReportType" : "customerServicingResourceAllocationInstanceAnalysisReportType"
+  },
+  "customerServicingResourceAllocationRetrieveActionTaskRecord" : {},
+  "customerServicingResourceAllocationInstanceReportRecord" : {
+    "customerServicingResourceAllocationInstanceReport" : {},
+    "customerServicingResourceAllocationInstanceReportType" : "customerServicingResourceAllocationInstanceReportType",
+    "customerServicingResourceAllocationInstanceReportData" : "customerServicingResourceAllocationInstanceReportData"
+  },
+  "customerServicingResourceAllocationRetrieveActionTaskReference" : "CSRARATR756831",
+  "customerServicingResourceAllocationRetrieveActionResponse" : "customerServicingResourceAllocationRetrieveActionResponse",
+  "customerServicingResourceAllocationInstanceRecord" : {
+    "servicingResourceRecord" : {
+      "servicingResourceQualificationProfile" : "servicingResourceQualificationProfile",
+      "servicingPositionReference" : "740674",
+      "servicingResourceAvailabilitySchedule" : "servicingResourceAvailabilitySchedule",
+      "servicingResourceStatus" : "servicingResourceStatus",
+      "servicingSessionReference" : "779620"
+    },
+    "servicingResourceReference" : "782351",
+    "servicingResourceAllocationServiceSchedule" : "servicingResourceAllocationServiceSchedule"
+  }
+}

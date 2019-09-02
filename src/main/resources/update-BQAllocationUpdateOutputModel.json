@@ -1,0 +1,11 @@
+{
+  "allocationUpdateActionTaskRecord" : {},
+  "allocationUpdateActionTaskReference" : "CSRAUATR786923",
+  "updateResponseRecord" : {},
+  "allocationInstanceRecord" : {
+    "customerServicingRequestRecord" : {},
+    "customerContactRecord" : {},
+    "allocationTaskResult" : "allocationTaskResult",
+    "allocationRequestType" : "allocationRequestType"
+  }
+}

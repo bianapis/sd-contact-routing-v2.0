@@ -1,0 +1,23 @@
+{
+  "allocationRetrieveActionTaskReference" : "CSRARATR723674",
+  "allocationRetrieveActionTaskRecord" : {},
+  "allocationRetrieveActionResponse" : "allocationRetrieveActionResponse",
+  "allocationInstanceReport" : {
+    "allocationInstanceReportType" : "allocationInstanceReportType",
+    "allocationInstanceReport" : {},
+    "allocationInstanceReportParameters" : "allocationInstanceReportParameters",
+    "allocationInstanceReportRecord" : {}
+  },
+  "allocationInstanceRecord" : {
+    "customerServicingRequestRecord" : {},
+    "customerContactRecord" : {},
+    "allocationTaskResult" : "allocationTaskResult",
+    "allocationRequestType" : "allocationRequestType"
+  },
+  "allocationInstanceAnalysis" : {
+    "allocationInstanceAnalysisReportType" : "allocationInstanceAnalysisReportType",
+    "allocationInstanceAnalysisReport" : {},
+    "allocationInstanceAnalysisParameters" : "allocationInstanceAnalysisParameters",
+    "allocationInstanceAnalysisRecord" : {}
+  }
+}

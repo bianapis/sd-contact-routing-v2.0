@@ -1,0 +1,9 @@
+{
+  "allocationCaptureActionTaskRecord" : {},
+  "allocationCaptureActionTaskReference" : "CSRACATR713487",
+  "allocationCaptureRecordReference" : "ACRR713417",
+  "allocationInstanceRecord" : {
+    "allocationTaskResult" : "allocationTaskResult"
+  },
+  "captureResponseRecord" : {}
+}

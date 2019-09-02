@@ -1,0 +1,16 @@
+{
+  "customerServicingResourceAllocationUpdateActionTaskReference" : "CSRAUATR740454",
+  "updateResponseRecord" : {},
+  "customerServicingResourceAllocationUpdateActionTaskRecord" : {},
+  "customerServicingResourceAllocationInstanceRecord" : {
+    "servicingResourceRecord" : {
+      "servicingResourceQualificationProfile" : "servicingResourceQualificationProfile",
+      "servicingPositionReference" : "705900",
+      "servicingResourceAvailabilitySchedule" : "servicingResourceAvailabilitySchedule",
+      "servicingResourceStatus" : "servicingResourceStatus",
+      "servicingSessionReference" : "771616"
+    },
+    "servicingResourceReference" : "720974",
+    "servicingResourceAllocationServiceSchedule" : "servicingResourceAllocationServiceSchedule"
+  }
+}

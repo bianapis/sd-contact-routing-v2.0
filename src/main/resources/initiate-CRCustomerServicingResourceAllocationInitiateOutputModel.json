@@ -1,0 +1,17 @@
+{
+  "customerServicingResourceAllocationInstanceReference" : "CSRAIR705080",
+  "customerServicingResourceAllocationInstanceStatus" : "customerServicingResourceAllocationInstanceStatus",
+  "customerServicingResourceAllocationInitiateActionRecord" : {},
+  "customerServicingResourceAllocationInitiateActionReference" : "CSRAIAR719293",
+  "customerServicingResourceAllocationInstanceRecord" : {
+    "servicingResourceRecord" : {
+      "servicingResourceQualificationProfile" : "servicingResourceQualificationProfile",
+      "servicingPositionReference" : "792964",
+      "servicingResourceAvailabilitySchedule" : "servicingResourceAvailabilitySchedule",
+      "servicingResourceStatus" : "servicingResourceStatus",
+      "servicingSessionReference" : "797175"
+    },
+    "servicingResourceReference" : "797605",
+    "servicingResourceAllocationServiceSchedule" : "servicingResourceAllocationServiceSchedule"
+  }
+}
